@@ -1,22 +1,21 @@
-# Human Development Index (HDI) Prediction
+# Human Development Index (HDI) Prediction 📊
 
 ## Project Overview
-This project aims to predict the HDI of different regions based on various socioeconomic factors using Machine Learning.
+This project leverages Machine Learning to predict the Human Development Index (HDI) of various regions, analyzing key socioeconomic indicators like Life Expectancy, GNI per capita, and Education.
 
-## Project Structure
-- [1. Brainstorming & Ideation](1.%20Brainstorming%20&%20Ideation/)
-- [2. Requirement Analysis](2.%20Requirement%20Analysis/)
-- [3. Project Design Phase](3.%20Project%20Design%20Phase/)
-- [4. Project Planning Phase](4.%20Project%20Planning%20Phase/)
-- [5. Project Development Phase](5.%20Project%20Development%20Phase/)
-- [6. Project Testing](6.Project%20Testing/)
-- [7. Project Documentation](7.Project%20Documentation/)
-- [8. Project Demonstration](8.Project%20Demonstration/)
+## Key Features 🚀
+- **Predictive Modeling:** Uses Scikit-learn for accurate HDI estimation.
+- **Web Interface:** Built with Flask for a user-friendly experience.
+- **Data Visualization:** Insights generated via Matplotlib.
 
-## Tech Stack
-- Python, Flask, Scikit-learn, Pandas, Matplotlib
+## Tech Stack 🛠️
+- **Language:** Python
+- **Framework:** Flask
+- **ML Library:** Scikit-learn
+- **Data Handling:** Pandas, Matplotlib
 
-## How to Run
-1. Clone the repo.
-2. Install requirements: `pip install -r requirements.txt`
-3. Run: `python app.py`
+## How to Run 🏃‍♂️
+1. Clone this repository: `git clone <your-repo-url>`
+2. Install dependencies: `pip install -r requirements.txt`
+3. Launch the app: `python app.py`
+4. Open your browser and go to `http://127.0.0.1:5000`
