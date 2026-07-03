@@ -1,12 +1,12 @@
-# Human Development Index (HDI) Prediction 📊
+# A Comprehensive Measure of Well-Being 📊
 
 ## Project Overview
-This project leverages Machine Learning to predict the Human Development Index (HDI) of various regions, analyzing key socioeconomic indicators like Life Expectancy, GNI per capita, and Education.
+This project leverages Machine Learning to predict the **Comprehensive Measure of Well-Being (HDI)** of various regions, analyzing key socioeconomic indicators like Life Expectancy, GNI per capita, and Education.
 
 ## Key Features 🚀
-- **Predictive Modeling:** Uses Scikit-learn for accurate HDI estimation.
+- **Predictive Modeling:** Uses Scikit-learn for accurate Well-Being index estimation.
 - **Web Interface:** Built with Flask for a user-friendly experience.
-- **Data Visualization:** Insights generated via Matplotlib.
+- **Data Visualization:** Insights generated via Matplotlib to visualize regional development.
 
 ## Tech Stack 🛠️
 - **Language:** Python
