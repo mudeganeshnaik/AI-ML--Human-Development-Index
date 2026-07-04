@@ -19,3 +19,6 @@ This project leverages Machine Learning to predict the **Comprehensive Measure o
 2. Install dependencies: `pip install -r requirements.txt`
 3. Launch the app: `python app.py`
 4. Open your browser and go to `http://127.0.0.1:5000`
+## Demo Video
+You can watch the project demonstration video here:
+[Watch the Project Demo](https://1drv.ms/v/c/09568713280B445B/IQCWZkw_xyqqS5Txgx0cr0YtAfjQz8UQ_mGCMtlkDGOU7tE?e=A3fcCG)
